@@ -247,6 +247,16 @@ This creates:
 
 ## 📚 API Documentation
 
+### Interactive Swagger Documentation
+
+All microservices now include interactive Swagger/OpenAPI documentation:
+
+- **Auth Service**: http://localhost:8000/api/docs/
+- **User Service**: http://localhost:8001/api/docs/
+- **Device Service**: http://localhost:8002/api/docs/
+
+For detailed instructions on using Swagger UI, see [SWAGGER_GUIDE.md](SWAGGER_GUIDE.md)
+
 ### Authentication Endpoints
 
 **Register User**
